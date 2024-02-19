@@ -11,7 +11,7 @@ const Navbar = () => {
                 <img src="/c.png" className="align-sub h-9 sm:h-12" alt="Flowbite React Logo" />
             </NavbarBrand>
             <div className="flex md:order-2">
-                <Button className='mx-1 bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all ' >Login</Button>
+                <Button className='mx-1 dark:bg-red-700 bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all dark:hover:bg-red-800 ' >Login</Button>
 
                 <Button className=' bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all '>View demo</Button>
                 {/* <NavbarToggle /> */}
