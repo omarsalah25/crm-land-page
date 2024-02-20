@@ -21,7 +21,7 @@ function App() {
           </div>
         </div>
         <div className='w-full   '>
-          <video className='aspect-w-16 aspect-h-9' src='/home-vid.mkv' autoPlay loop muted></video>
+          <video className='aspect-w-16 aspect-h-9' src='/home-vid2.mkv' autoPlay loop muted></video>
 
         </div>
       </div>
