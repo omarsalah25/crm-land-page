@@ -6,14 +6,14 @@ import { Navbar as FlowNav } from 'flowbite-react';
 const Navbar = () => {
 
     return (
-        <FlowNav fluid rounded className='bg-transparent'>
+        <FlowNav fluid rounded className='dark:bg-transparent bg-transparent'>
             <NavbarBrand href="https://crowd.com.eg">
                 <img src="/c.png" className="align-sub h-9 sm:h-12" alt="Flowbite React Logo" />
             </NavbarBrand>
             <div className="flex md:order-2">
-                <Button className='mx-1 dark:bg-red-700 bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all dark:hover:bg-red-800 ' >Login</Button>
+                <Button className='mx-1 dark:bg-red-700 bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all dark:enabled:hover:bg-red-800 ' >Login</Button>
 
-                <Button className=' bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all '>View demo</Button>
+                <Button className=' dark:bg-red-700 bg-red-700 enabled:hover:bg-red-800  hover:text-white hover:-translate-y-0.5 transition-all dark:enabled:hover:bg-red-800 '>View demo</Button>
                 {/* <NavbarToggle /> */}
             </div>
             {/* <NavbarCollapse className=''>
