@@ -20,7 +20,7 @@ function App() {
           </div>
         </div>
         <div className='w-full col-span-2 lg:col-span-2'>
-          <video className='aspect-w-16 aspect-h-9' src='/home-vid2.mp4' autoPlay loop muted></video>
+          <video className='aspect-w-16 aspect-h-9' src='/home-vid2.mp4' autoPlay loop muted playsInline ></video>
 
         </div>
       </div>
