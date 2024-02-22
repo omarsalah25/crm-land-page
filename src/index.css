@@ -46,9 +46,10 @@
   width: 270px;
   padding: 35px 25px 35px 40px;
   box-sizing: border-box;
-  background-color: #103c46;
-  color: #add5de;
-  font: 17px/1.6 var(--zf-primary-regular);
+  background-color: #001529;
+  /* #103c46; */
+  color: white;
+  font: 17px;
   display: inline-block;
   vertical-align: top;
   margin-right: 12px;
@@ -102,7 +103,7 @@
 
 .love-bgn-box p {
   font: 17px/1.5 var(--zf-primary-regular);
-  color: #add5de;
+  /* color: #add5de; */
   margin-top: 10px;
 }
 
