@@ -96,7 +96,7 @@
 }
 
 .first-bgn-sprite {
-  background: url(https://www.zohowebstatic.com/sites/oweb/images/zohobigin/first-crm-main-sprite.png);
+  background: url('/public/crm-icon.png');
   background-size: 720px;
   display: inline-block;
 }
