@@ -27,7 +27,7 @@ function App() {
 
       <div className='lg:columns-1 xl:mt-40 md:mt-30 mt-10 lg:ps-6 sm:ps-2  shadow-gray-400  '>
         <div className='w-full col-span-1 xl:col-span-1 items-center'>
-          <h1 className='text-white text-start font-bold text-4xl'>Discover Our CRM Solutions </h1>
+          <h1 className='text-white text-start font-bold text-4xl'>Data-Driven Insights for Informed Decisions. </h1>
         </div>
         <div className='w-full col-span-2 bg-transparent lg:col-span-2 flex justify-end mt-24 shadow-gray-400 shadow-transparent '>
           <img className='aspect-w-16 aspect-h-9 xl:skew-y-6 hover:skew-x-1 transition-all' src='/crmcrowd.PNG' autoPlay />
