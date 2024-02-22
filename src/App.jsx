@@ -36,7 +36,7 @@ function App() {
       </div>
 
       <div className="banner-whitepatch">
-        <h2 className='text-white text-start font-bold text-4xl mt-10'>What's to love about our crm?</h2>
+        <h2 className='text-white text-start font-bold text-4xl mt-10'>What's To Love About Our Crm?</h2>
         <div className="banner-info ">
           <div className="love-bgn-box profile-img1">
             <span className="first-bgn-sprite lov-icon1"></span>
